@@ -71,7 +71,7 @@ We welcome contributions to this project! If you'd like to help improve Mathleti
 
 ## License:
 
-This project is licensed under the [MIT License](License).
+This project is licensed under the [MIT License](LICENSE).
 
 ## Dive into the world of math and fun with Mathletics
 
